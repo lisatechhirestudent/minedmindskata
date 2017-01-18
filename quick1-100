@@ -1,0 +1,8 @@
+#(1..10).select(&:odd?)
+#end
+#
+(1..4).select(&:odd?)
+end
+puts "pizza"
+(6..10).select(&:odd?)
+end
